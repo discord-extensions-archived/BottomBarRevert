@@ -7,16 +7,21 @@
 .form-2fGMdU {
   border-top: 0 !important;
   margin-left: 0 !important;
-  margin-right: 0 !important
+  margin-right: 0 !important;
 }
 .channelTextArea-rNsIhG {
   margin-top: 21px !important;
-  margin-bottom: 23px !important
+  margin-bottom: 23px !important;
 }
 .channelTextArea-rNsIhG > .scrollableContainer-2NUZem { 
-  margin-left: 10px !important;
-  margin-right: 10px !important
+    margin-left: 8px !important;
+    margin-right: 8px !important;
+}
+
+.cooldownWrapper-3joyFc {
+  margin-right: 8px !important;
 }
 .typing-2GQL18 {
-    top: -5px !important
+  margin-left: 8px;
+  top: -5px !important
 }
