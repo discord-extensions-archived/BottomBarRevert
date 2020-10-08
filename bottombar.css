@@ -3,6 +3,20 @@
     --bar-color: var(--background-tertiary) !important /* Changes the bar color. */
 }
 
+/* Follow Channel */
+.form-2fGMdU > .wrapper-39oAo3 {
+  padding-bottom: 28px;
+}
+.form-2fGMdU > .wrapper-39oAo3 > .content-c_0cLD {
+  padding-top: 55px;
+}
+.form-2fGMdU > .wrapper-39oAo3 > .content-c_0cLD > .text-2yjo70 {
+  padding-bottom: 15px;
+}
+.content-c_0cLD + .buttonContainer-3AU1Ij {
+  padding-top: 40px;
+}
+
 /* Revert Discord Fixes */
 .form-2fGMdU {
   border-top: 0 !important;
