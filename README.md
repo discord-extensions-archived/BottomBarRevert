@@ -10,9 +10,9 @@ For manual installation, go to  **your themes folder, open a command prompt / po
 git clone https://github.com/LuckFire/BottomBarRevert
 ```
 
-For quick installation, go to  **Settings -> Themes -> Quick CSS**  and copy-paste the following code:
-```
-@import url("https://raw.githack.com/LuckFire/BottomBarRevert/master/bottombar.theme.css")
+For quick installation (not recommended), go to  **Settings -> Themes -> Quick CSS**  and copy-paste the following code:
+```css
+@import url("https://raw.githack.com/LuckFire/BottomBarRevert/master/bottombar.css")
 
 :root {
       --bar-color: var(--background-tertiary) !important /* Changes the bar color. */
