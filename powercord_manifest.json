@@ -1,7 +1,7 @@
 {
     "name": "Bottom Bar for Revert Discord",
     "description": "A nice, simple looking, bottom bar. Fixed for Revert Discord",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "LuckFire#4800",
     "theme": "bottombar.css",
     "consent": "false",
