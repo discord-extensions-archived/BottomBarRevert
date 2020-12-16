@@ -1,16 +1,16 @@
-@import url("https://raw.githack.com/LuckFire/BottomBar/master/bottombar.css");
+@import url("https://raw.githack.com/LuckFire/BottomBar/master/src/old-bottom-bar.css");
 :root {
     --bar-color: var(--background-tertiary) !important /* Changes the bar color. */
 }
 
 /* Follow Channel */
-.form-2fGMdU > .wrapper-39oAo3 {
+.form-2fGMdU .wrapper-39oAo3 {
   padding-bottom: 28px;
 }
-.form-2fGMdU > .wrapper-39oAo3 > .content-c_0cLD {
+.form-2fGMdU .wrapper-39oAo3 .content-c_0cLD {
   padding-top: 50px;
 }
-.form-2fGMdU > .wrapper-39oAo3 > .content-c_0cLD > .text-2yjo70 {
+.form-2fGMdU .wrapper-39oAo3 .content-c_0cLD .text-2yjo70 {
   padding-bottom: 15px;
 }
 .content-c_0cLD + .buttonContainer-3AU1Ij {
