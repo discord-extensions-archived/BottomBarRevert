@@ -1,3 +1,6 @@
+# ARCHIVED
+This repo is no longer maintained and has been archived. I have moved this repo to a different branch that is now part of BottomBar. I recommend switching over if you'd like to keep it updated incase anything breaks. https://github.com/LuckFire/BottomBar/tree/revert-discord
+
 # Bottom Bar for Revert Discord.
 A nice, simple looking, bottom bar. Fixed for Revert Discord. Inspired by CapnKitten's Spotify Discord theme.
 
